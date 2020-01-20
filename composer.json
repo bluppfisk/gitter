@@ -13,13 +13,19 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+	    {
+		    "type": "git",
+		    "url": "https://github.com/bluppfisk/process"
+	}
+    ],
     "require": {
         "php": ">=5.3",
         "doctrine/instantiator": "1.0.*",
         "phpdocumentor/reflection-docblock": "2.0.*",
         "sebastian/comparator": "1.2.*",
         "sebastian/recursion-context": "1.0.*",
-        "symfony/process": "2.8.*"
+        "symfony/process": "dev-master"
     },
     "require-dev": {
         "symfony/filesystem": "2.8.*",
