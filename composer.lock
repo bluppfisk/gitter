@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d6e65e8fd298163e882c1e0009441cfc",
+    "content-hash": "35e9092cdbc22cb6da7646ab54e91695",
     "packages": [
         {
             "name": "doctrine/instantiator",
@@ -350,7 +350,7 @@
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "https://github.com/bluppfisk/process",
+                "url": "https://github.com/bluppfisk/process.git",
                 "reference": "f674499e7fd2057c90a317b46400a2641051a6ec"
             },
             "require": {

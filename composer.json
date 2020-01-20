@@ -16,7 +16,7 @@
     "repositories": [
 	    {
 		    "type": "git",
-		    "url": "https://github.com/bluppfisk/process"
+		    "url": "https://github.com/bluppfisk/process.git"
 	}
     ],
     "require": {
@@ -25,7 +25,7 @@
         "phpdocumentor/reflection-docblock": "2.0.*",
         "sebastian/comparator": "1.2.*",
         "sebastian/recursion-context": "1.0.*",
-        "symfony/process": "dev-master"
+	"symfony/process": "dev-master#4.4"
     },
     "require-dev": {
         "symfony/filesystem": "2.8.*",
